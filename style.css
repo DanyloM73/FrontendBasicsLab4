@@ -1,0 +1,14 @@
+#imageContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-link {
+  margin-bottom: 20px;
+}
+
+.photo-img {
+  max-width: 1300px;
+  min-width: 100px;
+  width: 700px;
+}
